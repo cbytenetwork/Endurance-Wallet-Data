@@ -1,4 +1,4 @@
-# What is Unstoppable Wallet?
+# What is Endurance Wallet?
 
 - A non-custodial wallet where only the user holds the keys controlling cryptocurrency.
 

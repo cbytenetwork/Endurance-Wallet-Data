@@ -1,6 +1,6 @@
-# Where to download Unstoppable from?
+# Where to download Endurance from?
 
-Always download Unstoppable wallet app from official sources:
+Always download Endurance wallet app from official sources:
 
 App Store
 
@@ -8,12 +8,12 @@ App Store
 
 Google Play Market
 
-[https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet](https://play.google.com/store/apps/details?id=io.horizontalsystems.bankwallet)
+[https://play.google.com/store/apps/details?id=com.cbytenetwork.endurancewallet](https://play.google.com/store/apps/details?id=com.cbytenetwork.endurancewallet)
 
 Github
 
-[https://github.com/horizontalsystems/unstoppable-wallet-android/releases](https://github.com/horizontalsystems/unstoppable-wallet-android/releases)
+[https://github.com/cbytenetwork/endurance-wallet-android/releases](https://github.com/cbytesystems/endurance-wallet-android/releases)
 
 Fdroid
 
-[https://f-droid.org/en/packages/io.horizontalsystems.bankwallet/](https://f-droid.org/en/packages/io.horizontalsystems.bankwallet/)
+[https://f-droid.org/en/packages/](https://f-droid.org/en/packages/)

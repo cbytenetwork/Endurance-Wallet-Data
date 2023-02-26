@@ -1,21 +1,9 @@
-# What risks are there when using Endurance?
+# Does it cost anything to use Endurance?
 
-Endurance Wallet has no means to interfere with the user's funds or in any way restrict anyone from using the app. The wallet user is the only entity in control of the funds.
+Endurance Wallet is free to download and does not charge any fees for its base features.
 
-As a result of being non-custodial, private and decentralized, Endurance brings full power into the hands of the user.
+The users are expected to pay network usage fees when sending transactions on a given blockchain. These fees do not relate to Endurance in any way and tend to vary in real time depending on the usage of an underlying blockchain network.
 
-With exclusive control over assets, users also get full responsibility. There is no custodian entity responsible for the safety of the funds, other than the users themselves. In case there are issues, there is no one to compensate for losses.
+The wallet app merely recommends a sufficient fee to ensure the transaction gets processed within the expected time frame. More popular blockchains tend to be more congested and therefore have higher transaction fees.
 
-Key wallet features in Endurance do not depend on any centrally managed servers or any infrastructure managed by the Endurance team.
-
-Potential risks include:
-
-- Unexpected software bugs. Endurance has an open code allowing any entity to examine and verify that the wallet app works as expected. It's potentially possible for the wallet to have undiscovered issues which may lead to unexpected behavior in the app.
-
-- Poor security practices. Problems which may originate from users themselves as a result of poor security practices, like rooting the phone, not using a device PIN lock, keeping the phone OS outdated, installing apps from unauthorized sources, etc.
-
-- Using an unofficial app. Always update or install the Endurance app by downloading it from one of the official resources.
-
-- Incorrect Metadata. Incorrect metadata in the app itself i.e. outdated exchange rates, can lead to issues. Endurance relies on third party services to display current market rates for the given cryptocurrency. While rates are obtained from reputable 3rd party sources, Endurance can not guarantee they do not differ from global market rates. Therefore, when sending someone a large amount in cryptocurrency, it's safer to enter the payment amount in cryptocurrency (when entering the amount into the input form) rather than in its fiat equivalent.
-
-- Users should never share wallet private keys (aka 12-24 word mnemonic phrase) with anyone, including the Endurance team. All potential problems with the wallet app can be addressed without the need for a wallet private key.
+Endurance is in the process of providing some premium power user features, which are going to be only available to those holding Endurance Wallet NFTs.

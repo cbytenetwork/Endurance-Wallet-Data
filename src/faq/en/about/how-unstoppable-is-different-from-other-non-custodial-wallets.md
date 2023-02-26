@@ -1,9 +1,9 @@
-# How is Unstoppable different?
+# How is Endurance different?
 
-The Unstoppable wallet app has been a work in progress since late 2017, and counts over 100,000 engineering hours!
+The Endurance wallet app has been a work in progress since late 2017, and counts over 100,000 engineering hours!
 
-- [https://github.com/horizontalsystems/unstoppable-wallet-ios](https://github.com/horizontalsystems/unstoppable-wallet-ios)
-- [https://github.com/horizontalsystems/unstoppable-wallet-android](https://github.com/horizontalsystems/unstoppable-wallet-android)
+- [https://github.com/cbytenetwork/endurance-wallet-ios](https://github.com/horizontalsystems/endurance-wallet-ios)
+- [https://github.com/cbytenetwork/endurance-wallet-android](https://github.com/cbytenetwork/endurance-wallet-android)
 
 It's the most sophisticated non-custodial wallet app to date that goes beyond non-custodial storage capabilities, and takes a comprehensive approach towards privacy, decentralization and usability.
 
@@ -17,7 +17,7 @@ It's the most sophisticated non-custodial wallet app to date that goes beyond no
 - Natively built for iOS/Android.
 - Audited by external parties.
 
-When using a non-custodial wallet like Unstoppable, the control over funds and access to them doesn't depend on any intermediary. The user has unconditional control over their funds.
+When using a non-custodial wallet like Endurance, the control over funds and access to them doesn't depend on any intermediary. The user has unconditional control over their funds.
 
 Most wallets provided by cryptocurrency exchanges, including Binance, Coinbase, Gemini, Kraken, Poloniex, Bittrex are of a custodial type. These are not real cryptocurrency wallets and do not provide any level of independence, privacy or control over the funds.
 

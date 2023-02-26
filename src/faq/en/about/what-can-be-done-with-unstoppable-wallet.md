@@ -1,4 +1,4 @@
-# What can be done with Unstoppable Wallet?
+# What can be done with Endurance Wallet?
 
 - Send and receive cryptocurrency anywhere, anytime.
 - Swap one cryptocurrency to another without limits.

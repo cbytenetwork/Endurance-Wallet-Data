@@ -1,6 +1,6 @@
-# Who is building Unstoppable?
+# Who is building Endurance?
 
-Unstoppable started in 2017 and is being built by a team behind Horizontal Systems.
+Endurance started in 2023 and is being built by a team behind Horizontal Systems.
 
 - We are a 16-person engineering and creative team with an inherent passion for borderless fintech and DAOs (Decentralized Autonomous Organizations).
 
